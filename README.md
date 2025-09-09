@@ -20,7 +20,7 @@ The goal of this project is to provide a clear understanding of different algori
 ---
 
 ## Technologies Used
-- **Python 3.x**
+- **Python**
 - **Jupyter Notebook**
 - **NumPy**, **Pandas**
 - **Scikit-learn**
