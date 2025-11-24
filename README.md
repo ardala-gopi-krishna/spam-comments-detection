@@ -1,4 +1,4 @@
-# 📌 Spam Detection Using DistilBERT (Transformer Model)
+#  Spam Detection Using DistilBERT (Transformer Model)
 
 This project implements a **Spam/Ham message classifier** using **DistilBERT**, a lightweight Transformer model from Hugging Face.  
 It includes data preprocessing, model fine-tuning, evaluation, and deployment using **Streamlit**.
